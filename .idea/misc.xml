@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/back.xml" value="0.176" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/background_blue_curved_full.xml" value="0.1255" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/background_curved_1.xml" value="0.148" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/background_curved_full.xml" value="0.165" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/background_lightgreen_curved_full.xml" value="0.1255" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/background_orange_curved_full.xml" value="0.1255" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/background_pink_curved_full.xml" value="0.1255" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/background_white_form.xml" value="0.176" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/background_white_form_lesscurved.xml" value="0.196" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/button_nav_add.xml" value="0.127" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/full_rounded_picture.xml" value="0.1255" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.2185" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/logo_background.xml" value="0.1795" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/person.xml" value="0.1155" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/radiobutton_custom1.xml" value="0.1155" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/regular_state_radiobutton_customstyle_1.xml" value="0.1155" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/rounded_button.xml" value="0.159" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/rounded_button_secondary.xml" value="0.1795" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/rounded_corner_picture_1.xml" value="0.199" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/rounded_edittext.xml" value="0.159" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/rounded_edittext_dark.xml" value="0.2145" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/search.xml" value="0.165" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/drawable/selected_state_radiobutton_customstyle_1.xml" value="0.1155" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/activity_splash_screen.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/bottomsheet_fragment.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/card_category.xml" value="0.4" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/card_category_with_logo.xml" value="0.4" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/card_complain.xml" value="0.176" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/card_convert_currency.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/card_list_lelang.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/card_transacrtion.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/dialog_confirmation_layout.xml" value="0.2" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/dialog_convert_currency.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/dialog_decline_transaction_sting.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/dialog_layout.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/dialog_pay_topup.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/dialog_rate_transcation_sting.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_buy_sting.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_create_lelang_sting.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_detail_buy_sting.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_detail_category.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_detail_lelang_sting.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_detail_ordered_sting.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_detail_ordered_sting_in_progress.xml" value="0.152" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_detail_sting.xml" value="0.176" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_landing_page.xml" value="0.2" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_landing_page_after_login.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_list_complains.xml" value="0.152" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_list_lelang_sting.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_login.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_notification.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_register.xml" value="0.4" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_register_final.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_search.xml" value="0.2" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_top_up.xml" value="0.2" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_user_before_login.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_user_change_picture.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_user_edit_profile.xml" value="0.1899122807017544" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/fragment_user_profile.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/layout/sting_card.xml" value="0.264" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/menu/menu_user.xml" value="0.21403508771929824" />
+        <entry key="..\:/1.KULIAH/SISTEM_INFORMASI_BISNIS_ENRICO/SEMESTER_5/MOCOMP/BeeHive-Android/BeeHive-Android/app/src/main/res/menu/menu_user_before_login.xml" value="0.18796296296296297" />
+        <entry key="..\:/KULIAHSemester5/Mocomp/Proyek/BeeHive-Android/app/src/main/res/layout/bottomsheet_fragment.xml" value="0.264" />
+        <entry key="..\:/KULIAHSemester5/Mocomp/Proyek/BeeHive-Android/app/src/main/res/layout/card_beeworker.xml" value="0.1334853090172239" />
+        <entry key="..\:/KULIAHSemester5/Mocomp/Proyek/BeeHive-Android/app/src/main/res/layout/fragment_buy_sting.xml" value="0.1334853090172239" />
+        <entry key="..\:/KULIAHSemester5/Mocomp/Proyek/BeeHive-Android/app/src/main/res/layout/fragment_detail_buy_sting.xml" value="0.4" />
+        <entry key="..\:/KULIAHSemester5/Mocomp/Proyek/BeeHive-Android/app/src/main/res/layout/fragment_detail_sting.xml" value="0.264" />
+        <entry key="..\:/KULIAHSemester5/Mocomp/Proyek/BeeHive-Android/app/src/main/res/layout/fragment_user_before_login.xml" value="0.1334853090172239" />
+        <entry key="..\:/Kuliah/sem5/MCOM/PROYEK/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Kuliah/sem5/MCOM/PROYEK/app/src/main/res/layout/fragment_detail_category.xml" value="0.22447916666666667" />
+        <entry key="..\:/Kuliah/sem5/MCOM/PROYEK/app/src/main/res/layout/fragment_detail_ordered_sting.xml" value="0.3432971014492754" />
+        <entry key="..\:/Kuliah/sem5/MCOM/PROYEK/app/src/main/res/layout/fragment_detail_ordered_sting_in_progress.xml" value="0.258879781420765" />
+        <entry key="..\:/Kuliah/sem5/MCOM/PROYEK/app/src/main/res/layout/fragment_detail_ordered_sting_in_progress_1.xml" value="0.3432971014492754" />
+        <entry key="..\:/Kuliah/sem5/MCOM/PROYEK/app/src/main/res/layout/fragment_detail_sting.xml" value="0.3432971014492754" />
+        <entry key="..\:/Kuliah/sem5/MCOM/PROYEK/app/src/main/res/layout/fragment_notification.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
