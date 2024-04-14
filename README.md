@@ -1,4 +1,4 @@
-<img src="https://github.com/EnricoAdi/Beehive-Android/blob/main/docs/logo.jpg?raw=true" alt="Beehive" width="100">
+<img src="https://github.com/EnricoAdi/Beehive-Android/blob/master/docs/logo.jpg?raw=true" alt="Beehive" width="100">
 **BEEHIVE - Marketplace Freelancer For Android** <br>
 Build with Kotlin 
 
@@ -16,19 +16,19 @@ Development Team :
 Beberapa dokumentasi dari aplikasi android Beehive
 <ol>
 <li>
-Landing Page
-<img src="https://github.com/EnricoAdi/Beehive-Android/blob/main/docs/landing.jpg?raw=true" alt="Beehive" width="100">
+Landing Page <br/>
+<img src="https://github.com/EnricoAdi/Beehive-Android/blob/master/docs/landing.jpg?raw=true" alt="Beehive" >
 </li>
 <li>
-Home Page
-<img src="https://github.com/EnricoAdi/Beehive-Android/blob/main/docs/home.jpg?raw=true" alt="Beehive" width="100">
+Home Page <br/>
+<img src="https://github.com/EnricoAdi/Beehive-Android/blob/master/docs/home.jpg?raw=true" alt="Beehive">
 </li>
 <li>
-Public Page
-<img src="https://github.com/EnricoAdi/Beehive-Android/blob/main/docs/public.jpg?raw=true" alt="Beehive" width="100">
+Public Page <br/>
+<img src="https://github.com/EnricoAdi/Beehive-Android/blob/master/docs/public.jpg?raw=true" alt="Beehive">
 </li>
 <li>
-User Profile Page
-<img src="https://github.com/EnricoAdi/Beehive-Android/blob/main/docs/profile.jpg?raw=true" alt="Beehive" width="100">
+User Profile Page <br/>
+<img src="https://github.com/EnricoAdi/Beehive-Android/blob/master/docs/profile.jpg?raw=true" alt="Beehive">
 </li>
 </ol>
